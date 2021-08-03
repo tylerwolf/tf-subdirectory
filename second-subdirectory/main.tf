@@ -6,6 +6,6 @@ resource "null_resource" "third" {
 
 }
 
-resource "null_resource" "fourth_again" {
+resource "null_resourc" "fourth_again" {
 
 }
