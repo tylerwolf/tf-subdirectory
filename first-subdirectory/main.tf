@@ -14,4 +14,4 @@ resource "null_resource" "second" {}
 resource "null_resource" "anothers" {}
 
 
-resource "null_resource" "sos many" {}
+resource "null_resource" "sosmany" {}
